@@ -1,7 +1,7 @@
 # Site Settings
-name: Chan's blog
+name: Chance blog
 title: Chan's blog | ykdy3951's blog
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Chanwoong's development log
 tags:
   - blog
   - template
@@ -25,11 +25,11 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: ykdy3951
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: chanwoongK
+# twitter_username: twitter_username
+instagram_username: chan_develope
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
