@@ -17,17 +17,19 @@ paginate: false
 
 ICEWALL CTF - forensics homework
 
-> forensics homework
 > 준비물 : 잠겨진 zip 파일, 010 editor
 
-zip파일을 열어보면 flag.txt만 잠겨 있다는 것을 알 수 있다.
+zip파일을 열어보면 <strong>flag.txt</strong>만 잠겨 있다는 것을 알 수 있다.
+![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image1.png?raw=true "포렌식 과제.zip")
 
-잠겨있는 flag.txt을 열어보기 위해서 010 editor 가지고 zip 파일을 열어 보았다.
 
+잠겨있는 <strong>flag.txt</strong>t을 열어보기 위해서 `010 editor` 가지고 zip 파일을 열어 보았다.
+![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image2.png?raw=true "before overwrite with 010 editor")
 
-flag.txt의 dirEntry에 ushort deFlags 부분의 value가 1이므로 잠겨있다는 것을 확인했고 이를 0으로 overwrite 하면 
+<strong>flag.txt</strong>의 dirEntry에 ushort deFlags 부분의 <ins>value</ins>가 1이므로 잠겨있다는 것을 확인했고 이를 0으로 overwrite 하면 
+![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image3.png?raw=true "after overwrite with 010 editor")
 
-flag.txt파일을 열어서 flag를 확인할 수 있다!
-![placeholder](https://placehold.it/200x200 "flag.txt")
+<strong>flag.txt</strong>파일을 열어서 `flag`를 확인할 수 있다!
+![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image4.png?raw=true "flag.txt")
 
-flag{당신은 이제 어엿한 포렌서입니다!!!}
+`flag{당신은 이제 어엿한 포렌서입니다!!!}`
