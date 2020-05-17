@@ -23,7 +23,7 @@ zip파일을 열어보면 <strong>flag.txt</strong>만 잠겨 있다는 것을 �
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image1.png?raw=true "포렌식 과제.zip")
 
 
-잠겨있는 <strong>flag.txt</strong>t을 열어보기 위해서 `010 editor` 가지고 zip 파일을 열어 보았다.
+잠겨있는 <strong>flag.txt</strong>을 열어보기 위해서 `010 editor` 가지고 zip 파일을 열어 보았다.
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/post_200517/image2.png?raw=true "before overwrite with 010 editor")
 
 <strong>flag.txt</strong>의 dirEntry에 ushort deFlags 부분의 <strong><ins>value</ins></strong>가 1이므로 잠겨있다는 것을 확인했고 이를 0으로 overwrite 하면 
