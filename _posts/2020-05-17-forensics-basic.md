@@ -5,7 +5,7 @@ title: 'Forensics basic'
 subtitle:
 description: 'Icewall 포렌식 기초'
 image: https://raw.githubusercontent.com/ykdy3951/ykdy3951.github.io/master/_src/forensics/1/image.jpg
-optimized_image: https://raw.githubusercontent.com/ykdy3951/ykdy3951.github.io/master/_srcforensics/1/image.jpg
+optimized_image: https://raw.githubusercontent.com/ykdy3951/ykdy3951.github.io/master/_src/forensics/1/image.jpg
 category: forensics
 tags:
   - forensics
