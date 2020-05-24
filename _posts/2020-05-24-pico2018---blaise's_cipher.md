@@ -21,4 +21,4 @@ paginate: false
 
 문제
 
-![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/picoCTF/2018/Cryptography/6/1.png.png?raw=true 'problem')
+![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/picoCTF/2018/Cryptography/6/1.png?raw=true 'problem')
