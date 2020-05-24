@@ -1,7 +1,7 @@
 ---
 date: 2020-05-24 14:31:23
 layout: post
-title: "pico2018 - blaise's_cipher"
+title: "pico2018 - blaise\'s_cipher"
 subtitle: 'Solving Cryptography problem!'
 description: 'Cryptography problem in https://2018game.picoctf.com/ '
 image: https://raw.githubusercontent.com/ykdy3951/ykdy3951.github.io/master/_src/picoCTF/image.png
