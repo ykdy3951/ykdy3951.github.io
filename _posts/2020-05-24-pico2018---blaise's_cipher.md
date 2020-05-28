@@ -33,4 +33,4 @@ solution
 
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/picoCTF/2018/Cryptography/6/2.png?raw=true 'solve!')
 
-<span script="color: red">`picoCTF{v1gn3r3_c1ph3rs_ar3n7_bad_901e13a1}`</span>
+<p script="color: red">`picoCTF{v1gn3r3_c1ph3rs_ar3n7_bad_901e13a1}`</p>
