@@ -20,7 +20,7 @@ paginate: false
 > 필요한 지식 : sql <br>
 > 문제 : [SQLinjection level1 - gremlin](https://los.eagle-jump.org/gremlin_bbc5af7bed14aa50b84986f2de742f31.php).
 
-문제를 보자
+### 문제
 
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/SQLinjection/1/1.png?raw=true 'target')
 

@@ -33,4 +33,6 @@ zip파일을 열어보면 <strong>flag.txt</strong>만 잠겨 있다는 것을 �
 <strong>flag.txt</strong>파일을 열어서 `flag`를 확인할 수 있다!
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/forensics/1/4.png?raw=true 'flag.txt')
 
+### flag
+
 `flag{당신은 이제 어엿한 포렌서입니다!!!}`

@@ -37,6 +37,8 @@ solution
 
 아래는 brute-force 코드이다.
 
+### Solution code
+
 ```python
 import string
 
@@ -58,7 +60,7 @@ for key in range(len(Letter)):
     print(f'Key #{key}: {translated}')
 ```
 
-실행결과
+#### 실행결과
 
 ```s
  caesar_cipher_1/solution.py
@@ -90,6 +92,11 @@ Key #24: rcabiowwlwtlkimaizkqxpmzneikjwdd
 ```
 
 brute-force의 결과 key와 decrypt된 message를 확인할 수 있었다.
+
+### solution
+
 `Key #6: justagoodoldcaesarcipherfwacbovv`
+
+### flag
 
 `picoCTF{justagoodoldcaesarcipherfwacbovv}`
