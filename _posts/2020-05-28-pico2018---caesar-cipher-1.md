@@ -35,6 +35,8 @@ solution
 
 위의 message의 암호화한 key를 모르므로 brute-force attack을 이용해서 해야한다.
 
+아래는 brute-force 코드이다.
+
 ```python
 import string
 
@@ -55,6 +57,8 @@ for key in range(len(Letter)):
             translated = translated + symbol
     print(f'Key #{key}: {translated}')
 ```
+
+실행결과
 
 ```s
  caesar_cipher_1/solution.py
