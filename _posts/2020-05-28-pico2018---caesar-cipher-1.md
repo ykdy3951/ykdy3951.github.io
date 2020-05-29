@@ -19,11 +19,11 @@ paginate: false
 
 > 문제 : [caesar cipher 1](https://2018game.picoctf.com/problems).
 
-문제
+### 문제
 
 ![placeholder](https://github.com/ykdy3951/ykdy3951.github.io/blob/master/_src/picoCTF/2018/Cryptography/4/1.png?raw=true 'problem')
 
-solution
+### solution
 
 [caesar cipher 1](https://2018shell.picoctf.com/static/8b8d9e1fd4c9cd66facc3794d9c69175/ciphertext)을 다운 받으면 Encrypt된 message가 나온다.
 
@@ -93,7 +93,7 @@ Key #24: rcabiowwlwtlkimaizkqxpmzneikjwdd
 
 brute-force의 결과 key와 decrypt된 message를 확인할 수 있었다.
 
-### solution
+### Answer
 
 `Key #6: justagoodoldcaesarcipherfwacbovv`
 
