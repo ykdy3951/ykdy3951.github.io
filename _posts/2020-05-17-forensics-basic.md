@@ -13,6 +13,7 @@ tags:
   - CTF study
 author: ykdy3951
 paginate: false
+comments: true
 ---
 
 # Forensics

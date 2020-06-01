@@ -13,6 +13,7 @@ tags:
   - XSS
 author: ykdy3951
 paginate: false
+comments: true
 ---
 
 # Webhacking - Xss

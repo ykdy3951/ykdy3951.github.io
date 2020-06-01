@@ -13,6 +13,7 @@ tags:
   - Cryptography
 author: ykdy3951
 paginate: false
+comments: true
 ---
 
 # 2018 picoCTF - Cryptography

@@ -13,6 +13,7 @@ tags:
   - SQLInjection
 author: ykdy3951
 paginate: false
+comments: true
 ---
 
 # Webhacking - SQLinjection
